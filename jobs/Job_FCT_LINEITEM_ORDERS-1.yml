@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "1"
+includeSelector: "+{ location: \"WORK\" name: \"FCT_LINEITEM_ORDERS\" }"
+name: Job_FCT_LINEITEM_ORDERS
+type: Job
