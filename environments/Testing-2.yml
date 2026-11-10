@@ -6,6 +6,6 @@ mappingDefinitions:
     schema: TPCH_SF1
   WORK:
     database: PC_COALESCE_DB
-    schema: TESTING
+    schema: WORK_TESTING
 name: Testing
 type: Environment
